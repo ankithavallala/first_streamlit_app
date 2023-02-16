@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('breakfast menu')
+streamlit.title('Have a great day')
